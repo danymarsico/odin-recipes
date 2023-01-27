@@ -1,0 +1,15 @@
+h1 {
+    text-align: center;
+    color: rgb(229, 255, 0);
+    font-size: 50px;
+    background-color: black;
+    font-weight: bold;
+
+}
+
+ul {
+font-weight: 400;
+color: black;
+background-color: aliceblue;
+font-size: 25px;
+}
